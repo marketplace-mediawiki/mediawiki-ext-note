@@ -1,8 +1,8 @@
-# Information / Информация
+# Information
 
 Интеграция пользовательских сообщений в статью.
 
-## Install / Установка
+## Install
 
 1. Загрузите папки и файлы в директорию `extensions/MW_EXT_Note`.
 2. В самый низ файла `LocalSettings.php` добавьте строку:
@@ -11,12 +11,12 @@
 wfLoadExtension( 'MW_EXT_Note' );
 ```
 
-## Syntax / Синтаксис
+## Syntax
 
 ```html
 <note type="[TYPE]">[CONTENT]</note>
 ```
 
-## Donations / Пожертвования
+## Donations
 
 - [Donation Form](https://donation-form.github.io/)
